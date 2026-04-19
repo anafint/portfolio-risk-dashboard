@@ -1,0 +1,19 @@
+# API
+fastapi
+uvicorn[standard]
+
+# Data
+yfinance
+pandas
+numpy
+scipy
+
+# Database
+sqlalchemy
+
+# Frontend
+streamlit
+plotly
+
+# Validation
+pydantic
